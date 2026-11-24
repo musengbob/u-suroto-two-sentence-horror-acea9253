@@ -1,0 +1,1 @@
+Write a two-sentence horror story: a complete, genuinely scary piece of original horror fiction in exactly two sentences, with a twist in the second sentence. The program outputs the story deterministically — the same two sentences on every run, with no randomness, network, or clock involved.
